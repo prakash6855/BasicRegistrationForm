@@ -1,0 +1,16 @@
+.registration-form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(186, 142, 142);
+  color:rgb(5, 6, 20);
+  margin-top: 10px;
+  width: 100vw;
+  height: 100vh;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
